@@ -1,0 +1,148 @@
+body{
+	margin: 0;
+}
+.header{
+	width: 700px;
+    height: 225px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 91px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 200px;
+}
+.container-multiplication-table{
+	width: 300px;
+	border: 2px solid black;
+	border-radius: 10px;
+	background: #00f3ff6b;
+	margin: auto;
+	margin-top: 20px;
+	padding-bottom: 10px
+}
+.first-number{
+	width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 90px;
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background: white;
+}
+.multiplication-sign{
+	width: 70px;
+    height: 70px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 65px;
+    margin-left: 40px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background: white;
+}
+.two-number{
+	width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 90px;
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background: white;
+}
+.answer{
+    width: 255px;
+    height: 40px;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 30px;
+    background: white;
+}
+.following-example{
+    width: 200px;
+    height: 28px;
+    border: 2px solid black;
+    cursor: pointer;
+    margin-left: 45px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 22px;
+    border-radius: 5px;
+    background: white;
+}
+.container-answer-choice{
+	width: 275px;
+    height: 150px;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.option{
+	width: 100px;
+    height: 60px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 7px;
+    text-align: center;
+    font-size: 55px;
+    border-radius: 5px;
+    cursor: pointer;
+    vertical-align: top;
+    cursor: pointer;
+    background: white;
+}
+.result-work{
+	width: 300px;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin: auto;
+	margin-top: 20px;
+	background: #00f3ff6b;
+	padding-bottom: 25px;
+}
+.show-result{
+    width: 200px;
+    height: 50px;
+    border: 2px solid black;
+    cursor: pointer;
+    margin-top: 22px;
+    margin-left: 48px;
+    text-align: center;
+    font-size: 23px;
+    border-radius: 5px;
+    line-height: 45px;
+    background: white;
+}
+.correct-wrong-answer-number{
+	width: 100px;
+    height: 70px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+    vertical-align: top;
+    font-size: 60px;
+    text-align: center;
+    background: white;
+}
+.restart{
+    width: 200px;
+    height: 60px;
+    border: 2px solid black;
+    margin-top: 15px;
+    margin-left: 45px;
+    border-radius: 5px;
+    background: white;
+    text-align: center;
+    font-size: 45px;
+    cursor: pointer;
+}
